@@ -5,3 +5,6 @@
 1. High Level (We don't have to worry about complex stuff like memory management)
 2. Object-Oriented (Based on Objects, for storing most kinds of data)
 3. Multi Paradigm (We can use different styles of programming)
+
+
+There's nothing you can't do with JavaScript
